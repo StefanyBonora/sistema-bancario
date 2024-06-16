@@ -8,7 +8,12 @@ SAQUE: O sistema deve permitir realizar 3 saques diários com limite máximo de 
 
 EXTRATO: Essa operação deve listar todos os depósitos e saques realizados na conta. No fim da listagem deve ser exibido o saldo atual da conta.
 
-
+Logica
+1.inicio (Titulo do programa)
+2.menu de opcoes (deposito, saque, extratos)
+3.definir variaveis(deposito, saque, extrato)
+5. perguntar se deseja continuar
+6. sair e agradecer
 
 
  
